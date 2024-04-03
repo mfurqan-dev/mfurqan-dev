@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)]
 
 <h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
-<p align="left"> <img src="https://dribbble.com/shots/3610946-Wordpress-Devops-in-Pressidium" alt="mfurqan-dev" /> </p>
 
 - 🔭 I’m currently working on **Netflix Clone**
 
