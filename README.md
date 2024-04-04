@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="")
+
 
 
 - 🔭 I’m currently working on **Netflix Clone**
