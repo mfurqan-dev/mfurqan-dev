@@ -1,8 +1,8 @@
-![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
+![MasterHead]("https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149369792.jpg?w=1060&t=st=1712214857~exp=1712215457~hmac=168f383e8c30d296b08054e7093f03b4e4ee822404d8d8d60206906bfe33728d")
 
 <h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="")
 
 
 - 🔭 I’m currently working on **Netflix Clone**
