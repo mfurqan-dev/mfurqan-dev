@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149369792.jpg?w=1060&t=st=1712214857~exp=1712215457~hmac=168f383e8c30d296b08054e7093f03b4e4ee822404d8d8d60206906bfe33728d)
+![MasterHead](https://b1410584.smushcdn.com/1410584/wp-content/uploads/2020/10/img-blog-Devops-with-git-jenkin-aws-1024x536.jpg?lossy=0&strip=1&webp=1)
 
 <h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan</h3>
