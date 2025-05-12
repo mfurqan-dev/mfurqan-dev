@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Small Projects**
 
-- 🌱 I’m currently learning **RedHat OpenShift**
+- 🌱 I’m currently learning **DevOps Tools**
 
 - 💬 Ask me about **kubernetes , Docker , Ansible**
 
